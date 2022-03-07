@@ -1,0 +1,15 @@
+C:\curso\App.Series\bin\Debug\net6.0\App.Series.exe
+C:\curso\App.Series\bin\Debug\net6.0\App.Series.deps.json
+C:\curso\App.Series\bin\Debug\net6.0\App.Series.runtimeconfig.json
+C:\curso\App.Series\bin\Debug\net6.0\App.Series.dll
+C:\curso\App.Series\bin\Debug\net6.0\ref\App.Series.dll
+C:\curso\App.Series\bin\Debug\net6.0\App.Series.pdb
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.csproj.AssemblyReference.cache
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.AssemblyInfoInputs.cache
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.AssemblyInfo.cs
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.csproj.CoreCompileInputs.cache
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.dll
+C:\curso\App.Series\obj\Debug\net6.0\ref\App.Series.dll
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.pdb
+C:\curso\App.Series\obj\Debug\net6.0\App.Series.genruntimeconfig.cache
